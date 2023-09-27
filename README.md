@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div align="center">  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-</div>
+
 ![header](https://camo.githubusercontent.com/cd3e57d05dbc7ebfba1a0d6ec6128340e8f739987d7c951de27f08224cbf0f45/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d63796c696e64657226636f6c6f723d6175746f26746578743d43796c696e64657226666f6e74416c69676e593d343526666f6e7453697a653d3430266865696768743d31353026616e696d6174696f6e3d626c696e6b696e6726646573633d646573632532306973253230616c736f253230616e696d617465642664657363416c69676e593d3730)
 
 **ssyeop/ssyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
