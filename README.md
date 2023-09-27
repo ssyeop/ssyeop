@@ -6,7 +6,6 @@
 
   
  <br/>
- <br/>
   
 ####  :clipboard: Once I've Used 
   
@@ -18,5 +17,6 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
    <br/>
-   <br/>
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyeop&shwo_icons=true&heme=tokyonight)
+</div>
