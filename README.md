@@ -18,5 +18,5 @@
  
    <br/>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyeop&shwo_icons=true&heme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyeop&layout=compact&theme=midnight-purple)
 </div>
